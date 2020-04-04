@@ -9,4 +9,4 @@ Normal programmer, please don't read this text or you die!
 После расставления кораблей, игрока спрашиваю куда он хочет совершить удар
 ![Image alt](https://github.com/ctrlz1337/sea_fight/raw/master/3.png)
 Если игрок промахивается, то ход передается противнику. Пока противник не промахнется, он ходит. Точно так же и у игрока, пока он не промахнется, он ходит
-![Image alt](https://github.com/ctrlz1337/sea_fight/raw/master/4.png)
+![Image alt](https://github.com/ctrlz1337/sea_fight/raw/master/4.png) 
